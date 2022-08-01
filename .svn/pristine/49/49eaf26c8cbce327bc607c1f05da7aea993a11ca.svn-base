@@ -1,0 +1,383 @@
+<!doctype html> 
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="../css/aos.css">
+  <link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="../css/custom.css">
+
+  <title>InterLand</title>
+</head>
+
+<body>
+  <div class="subMenu submenu0" style="display:none">
+    <div class="row">
+      <div class="col-md-12">
+        <h2 class="subMenuHead">projects</h2>
+        <div class="row rowHeadMenu">
+          <div class="col-md-4">
+
+            <ul class="list-group listMenuGroup">
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+            </ul>
+
+          </div>
+          <div class="col-md-4">
+            <ul class="list-group listMenuGroup">
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+            </ul>
+
+          </div>
+          <div class="col-md-4">
+            <ul class="list-group listMenuGroup">
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+              <li class="list-group-item"><a href="#">Cras justo odio</a></li>
+            </ul>
+
+          </div>
+
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+  <div class="headerContent">
+    <div class="bannerIts product_ipsh zoominheader"></div>
+    <div class="zoomoutheader">
+      <section >
+        <div class="header_sec" id="Header_Main">
+          <div class="container">
+          <nav class="navbar navbar-expand-lg navbar-light bgtransparent">
+            <a class="navbar-brand" href="../index.html"><img src="../image/intelandLogo.png" width="250px" id="header_logo"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+              aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse nav_cls" id="navbarNav">
+  
+              <ul class="navbar-nav ml-auto navMenuits">
+                <li class="nav-item active">
+                  <a class="nav-link" href="../index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item  ">
+                  <a class="nav-link cls_icons " href="#">Company<i class="fa fa-caret-down"></i></a>
+                  <div class="cls_pro">
+                    <div class="container">
+                      <div class="company_content">
+                        <h3>Company</h3>
+                        <p>ITS is a leading IT Business Solutions & Services company specialized in providing Highly Mission Critical  Technology Solutions to enterprises in United States, Saudi and Middle East. We are among the Leaders in  Banking Solutions, BIG DATA , Data Analytics, Application and Network management solutions, Digital Campaign and Education / E-learning Solutions. We are the first  Company in Middle east Who is offering Cloud based BIG DATA Hosting Services. Our customer base includes most of the leading Banks in Saudi Arabia.</p>
+                        <ul>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>About Us</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Directors</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Investor Details</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Media</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Social Connect</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Environment Policy</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item ">
+                  <a class="nav-link cls_icons" href="#">Products<i class="fa fa-caret-down"></i>
+                  </a>
+                  <div class="cls_pro">
+                    <div class="container">
+                      <div class="company_content">
+                        <h3>Products</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas et quos eum. Laudantium sequi magnam amet officia iusto adipisci recusandae earum eaque hic ad numquam, autem neque modi doloribus?</p>
+                        <ul>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>CORPORATE BANKING</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>DIGITAL BANKING</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>RETAIL BANKING</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>MOBILE APPS</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+  
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link cls_icons" href="#">Careers<i class="fa fa-caret-down"></i></a>
+                  <div class="cls_pro">
+                    <div class="container">
+                      <div class="company_content career_cont">
+                        <h3>Careers</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas et quos eum. Laudantium sequi magnam amet officia iusto adipisci recusandae earum eaque hic ad numquam, autem neque modi doloribus?</p>
+                        <ul>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Write-up on Company culture,
+                              ethics, work-environment etc.</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Hiring Policy details</a>
+                          </li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Core Competency details</a>
+                          </li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Vacancy details</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Link to upload resume to the
+                              company database</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link cls_icons" href="#">Client Stories<i class="fa fa-caret-down"></i></a>
+                  <div class="cls_pro">
+                    <div class="container">
+                      <div class="company_content client_cont">
+                        <h3>Client Stories</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas et quos eum. Laudantium sequi magnam amet officia iusto adipisci recusandae earum eaque hic ad numquam, autem neque modi doloribus?</p>
+                        <ul>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Client Details</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Success Stories</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Testimonials from Clients</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link cls_icons" href="#">Contact<i class="fa fa-caret-down"></i></a>
+                  <div class="cls_pro">
+                    <div class="container">
+                      <div class="company_content contact_cont">
+                        <h3>Contact</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas et quos eum. Laudantium sequi magnam amet officia iusto adipisci recusandae earum eaque hic ad numquam, autem neque modi doloribus?</p>
+                        <ul>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Details on Company’s
+                              Registered Office Address, Corporate Office Address</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Phone Numbers (Office, Sales
+                              Team, Customer Helpline)</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Link for visitors to submit
+                              details for demo, query resolution, sales pitch.</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link cls_icons" href="#">Services<i class="fa fa-caret-down"></i></a>
+                  <div class="cls_pro">
+                    <div class="container">
+                      <div class="company_content contact_cont">
+                        <h3>Services</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptas et quos eum. Laudantium sequi magnam amet officia iusto adipisci recusandae earum eaque hic ad numquam, autem neque modi doloribus?</p>
+                        <ul>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Details on the type of
+                              services rendered by the Company.</a></li>
+                          <li><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Business sectors targeted
+                              and currently active in.</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-item menu_line"><a class="nav-link" ><span onclick="openNav()"><img src="../image/iconMenu.png"width="30px"></span></a></li>
+              </ul>
+            </div>
+            <div id="mySidenav" class="sidenav">
+              <li class="nav-item"> <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">
+                Close <i class="fa fa-times" aria-hidden="true"></i> 
+              </a></li>
+              <li class="side_int_logo" ><a href="../index.html" ><img src="../image/intelandLogo.png" width="250px" id="header_logo"></a></li>
+              <li class="nav-item" id="menu"> <a href="#">About</a></li>
+              <li class="nav-item" id="menu0"> <a href="#">Home</a></li>
+              <li class="nav-item" id="menu1"> <a href="#">Categories</a></li>
+              <li class="nav-item" id="menu2"> <a href="#">Product Philosophy</a>
+                <div class="mysidenav_cls">
+                  <div class="mysidenav_content">
+                    <h3>Product Philosophy</h3>
+                    <p>
+                      < Description about what drives the company to design its products, what are its prime objectives, creating a small window into the modus operandi > 
+                    </p>
+                    <h5>InterLand Tech is driven by 5 i.</h5>
+                    <div class="row">
+                      <div class="col-md-4"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Innovation</a></div>
+                      <div class="col-md-4"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Information</a></div>
+                      <div class="col-md-4"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Inquisition</a></div>
+                      <div class="col-md-4"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Integration</a></div>
+                      <div class="col-md-4"><a href=""></a></div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li class="nav-item" id="menu3"> <a href="#">Knowledge</a>
+                <div class="mysidenav_cls">
+                  <div class="mysidenav_content">
+                    <h3>Knowledge</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum asperiores nihil blanditiis corrupti explicabo accusantium nisi quas doloribus deserunt ipsam.</p>
+                    <h5>To contain Links to</h5>
+                    <div class="row">
+                      <div class="col-md-4"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Webinars</a></div> 
+                      <div class="col-md-4"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Events</a></div> 
+                      <div class="col-md-4"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Blogs/Vlogs</a></div> 
+                      <div class="col-md-4"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Newsletters</a></div> 
+                      <div class="col-md-4"><a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Industry Reports</a></div> 
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li class="nav-item" id="menu4"> <a href="#">Miscellaneous</a>
+                <div class="mysidenav_cls">
+                  <div class="mysidenav_content">
+                    <h3>Miscellaneous</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestias nobis rem corrupti omnis facilis recusandae asperiores aspernatur obcaecati dolor.</p>
+                    <div class="row">
+                      <div class="col-md-6"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Demo Request (link/radio button)</a></div> 
+                      <div class="col-md-6"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Sitemap</a></div> 
+                      <div class="col-md-6"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Links to Social Media (Facebook, Youtube, Twitter, LinkedIn)</a></div> 
+                      <div class="col-md-6"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Disclaimers</a></div> 
+                      <div class="col-md-6"><a href=""><i class="fa fa-angle-right" aria-hidden="true"></i>Copyrights</a></div> 
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </div>
+  
+          </nav>
+        </div>
+        </div>
+      </section>
+    </div>
+
+  </div>
+
+  <section class="hub_sec" data-aos="fade-up" data-aos-duration="2000">
+      <div class="container xcnt0">
+          <div class="row">
+              <div class="col-md-7 " data-aos="zoom-in-right">
+                  <img src="../image/my-wallet-12.png" alt="payment_hub_image" width="100%">
+                  <!-- <img src="../image/web-interland-logo.png" alt="payment_hub_image" width="100%" style="border-radius: 40px;"> -->
+              </div>
+              <div class="col-md-5" data-aos="zoom-out-down">
+                  <div class="headCnt0 pay_hub_cls">
+                      <h3>Interland Pay</h3>
+                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt porro mollitia nisi odit molestiae facere temporibus ducimus sit perspiciatis? Delectus!</p>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit obcaecati odio cum a repudiandae nobis maiores, corrupti quasi. Soluta, repellendus.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+       
+        <div class="col-md-3 footer_left">
+          <div class="main_location">
+            <div class="our_loc">
+              OUR LOCATION
+            </div>
+            <div class="our_loc_tip"></div>
+          </div>
+          <div class="map_cls">
+            <img src="../image/mapslato.png" alt="map image" width="100%">
+          <p>Slato Company Private Limited <br>
+            3301 Envato Melbourne,<br>
+            Little Lonsdale St, <br>
+            USA - LOS ANGELES</p>
+          <button class="btn btn-light together_btn">LETS WORK TOGETHER</button>
+          </div>
+        </div>
+        <div class="col-md-3 about_cls">
+          <h4>About Interland</h4>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, magnam. </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error atque voluptate ex dolorum beatae repudiandae in debitis quae dolor mollitia.</p>
+        </div>
+        <div class="col-md-3 usefull_cls">
+          <h4>Use Full Links</h4>
+          <ul>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">New resources</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">About our company</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">What we do</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">Latest Updates</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">Our blog</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">Newsletter</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 usefull_cls">
+          <!-- <h4>Use Full Links</h4> -->
+          <ul>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">New resources</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">About our company</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">What we do</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">Latest Updates</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">Our blog</a></li>
+            <li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="#">Newsletter</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer_2">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <div class="copy">Copyright © Interland Technology Services Private Limited. All Rights Reserved</div>
+          </div>
+          <div class="col-md-7">
+            <div class="ft-links">
+              <div class="socail">
+                <a target="_blank" href="">
+                  <i class="fa fa-facebook"></i>
+                </a>
+                <a target="_blank" class="fa fa-twitter" aria-hidden="true" href="#"></a>
+                <a target="_blank" class="fa fa-linkedin" aria-hidden="true" href="#"></a>
+                <a target="_blank" class="fa fa-youtube-play" aria-hidden="true" href="#"></a>
+                <a target="_blank" class="fa fa-instagram" aria-hidden="true" href="#"></a>
+              </div>
+              <div class="ft-right">
+                <a href="#">Terms of Use</a>
+                <a href="#">Privacy Policy</a>
+                <!-- <a href="#" target="_blank">Cookie Policy</a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Footer -->
+
+  <script>
+
+
+  </script>
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script type="text/JavaScript" src="../js/jquery.min.js"></script>
+  <script type="text/javascript" src="../js/popper.min.js"></script>
+  <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="../js/aos.js"></script>
+  <script type="text/javascript" src="../js/custom.js"></script>
+  <script type="text/javascript" src="../js/slide.js"></script>
+  <script type="text/javascript" src="../js/slick-carousel.js"></script>
+
+</body>
+
+</html>
